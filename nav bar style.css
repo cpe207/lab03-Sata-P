@@ -1,0 +1,218 @@
+*{
+
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+box-sizing: border-box;
+
+
+}
+
+body{
+    scroll-behavior: smooth;
+    background-color: wheat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+/*
+nav{
+
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+    height: 80px;
+    margin: 15px 0;
+}
+
+
+
+div.logo{
+
+ 
+    color: rgb(0, 0, 0);
+    font-family: Tiny5;
+    padding: 0 25px;
+    font-size: 40px;
+
+}
+
+div.menu a{
+    
+    color: rgb(0, 0, 0);
+    font-family: Tiny5;
+    margin: 0 10px;
+    font-size: 25px;
+
+}*/
+
+.navbar{
+
+    font-family: Tiny5;
+  
+
+}
+
+
+/*-------------------------------------------end of nav bar sec------------------------------------------------------------------------*/
+
+
+.para1 .text h2 {
+    font-size: 50px;
+}
+
+.para1 .text p {
+    font-size: 25px;
+}
+
+
+
+
+.para2{
+    
+    padding: 0 70px;
+    margin-bottom: 100px;
+    margin-top: 150px;
+    
+}
+
+.para2 h2{
+    
+   text-align: center;
+   font-size: 35px;
+}
+
+.para2 .skill{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 27px;
+    
+}
+  
+.para2 .icon{
+   
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+
+}
+/*-------------------------------------------------------end of home page--------------------------------------------------------------------*/
+/*-------------------------------------------------------contact section--------------------------------------------------------------------*/
+
+
+.contactpage .contactheader{
+    color: black;
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top:150px;
+    padding: 0 300px;
+
+}
+.contactpage .contactheader p{
+
+    font-size: 25px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top:30px;
+    padding: 0 300px;
+    color: black;
+
+}
+
+.contactlink{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+    margin-bottom: 70px;
+}
+
+.contactlink .ig{
+   
+    font-size: 45px;
+    justify-content:space-between;
+    text-align: center;
+    margin-top: 25px;
+    color: black;
+
+}
+
+.contactlink .facebook{
+  
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+
+}
+
+.contactlink .git{
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+}
+
+.contactlink .email{
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+}
+
+/*-------------------------------------------------- contact page end-----------------------------------------------------------------*/
+
+/*-------------------------------------------------- exp page section-----------------------------------------------------------------*/
+
+.exp {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: 300;
+    font-size: large;
+  }
+  
+  .pj {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 15px;
+  }
+  
+  .pj div {
+    gap: 10px;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pj div h2 {
+   
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+
+  }
+  
+  .pj div p {
+
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
