@@ -233,3 +233,14 @@ div.menu a{
 .pj div:hover {
     transform: scale(1.1);
 }
+
+.navbar-brand{
+
+    transition: 0.9s;
+
+}
+.navbar-brand:hover{
+
+    transform: scaleX(1.2);
+
+}
