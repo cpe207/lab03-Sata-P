@@ -126,6 +126,7 @@ div.menu a{
 
 }
 
+
 .contactlink{
 
     font-size: 45px;
@@ -222,5 +223,13 @@ div.menu a{
 }
 
 .card:hover {
+    transform: scale(1.1);
+}
+
+.pj div {
+    transition: 0.6s;
+}
+
+.pj div:hover {
     transform: scale(1.1);
 }
